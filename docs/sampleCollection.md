@@ -21,7 +21,7 @@ I have not provided nitrile/latex gloves. It is my assumption you can obtain tho
 
 Immediately after swabbing, each applicator must be placed in 2 mL of sterile 1X PBS pH 7.4 buffer in the 15 mL Flacon tube. Because the applicator shaft is longer than the tube is long, a portion of the shaft will must be cut to fit the screw cap back on. Swab a razor with the ethanol wipe, then cut the shaft at about half it's length. Ensure the swab tip side is submerged in the PBS buffer.  
 
-Place tubes in refridgerator at 4C until shipment. Ship using cool packs (cold, not frozen).	
+Place tubes in refrigerator at 4C until shipment. Ship using cool packs (cold, not frozen).	
 
 # Collection practices
 ## Sterile techinque
