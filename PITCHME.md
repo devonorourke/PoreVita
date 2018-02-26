@@ -10,5 +10,6 @@
 
 @title[overview]
 <span style="color:#001d52">How did we get from dog swab to sequence information?
-**1. tissue collection**
-![](https://drive.google.com/file/d/0B4DvQqJRO9s1TFhOZDdnend2bnk0VHRHMFh3WUpuMDI0V0xZ/view)
+**1. tissue collection**  
+
+![](https://github.com/devonorourke/PoreVita/blob/master/images/dog1a.jpg.jpg)
