@@ -1,0 +1,14 @@
+phinchID,Breed,dogID,TissueType,StudentName,Dorm/apartment
+barcode01,WheatonTerrler,Bear,Gums,NickSteed,CGR
+barcode02,Rescue,Remy,Gums,GiangLe,Apartment
+barcode03,Pitbull,Dizel,Gums,Chinedum,MacMillan
+barcode04,Weimeraina,Samantha,Hard_palate,Chinedum,Macmillan
+barcode05,Lab_PyreneseMix,Peter,Gums,HunterSmith,Eipper
+barcode06,Beagle_KingCharlesMix,Sparky,Gums,WaringFleitas,Dewindt
+barcode07,EnglishRetriever,Rondo,Gums,JackWhitney,Godman
+barcode08,environmental_sample,DishPit,environmental_sample,MaxBeadling,DiningHall
+barcode09,WelshCorgi,Phoenix,Cheeks,NickyFinn,Apartment
+barcode10,BlackLab,Arly,Tongue,AnnieHauser,SeniorHouse
+barcode11,GoldenRetriever,BO,Tongue,ShannonKelly,Stanley
+barcode12,NegativeControl,NegativeControl,NegativeControl,TonyAmolo,Buck
+unclassified,unclassified,unclassified,unclassified,unclassified,unclassified
